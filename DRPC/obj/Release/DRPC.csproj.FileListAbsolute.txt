@@ -1,0 +1,10 @@
+C:\Users\IDE\source\repos\DRPC\DRPC\bin\Release\DRPC.exe.config
+C:\Users\IDE\source\repos\DRPC\DRPC\bin\Release\DRPC.exe
+C:\Users\IDE\source\repos\DRPC\DRPC\bin\Release\DRPC.pdb
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.csproj.AssemblyReference.cache
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.Properties.Resources.resources
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.csproj.GenerateResource.cache
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.csproj.CoreCompileInputs.cache
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.exe
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.pdb
+C:\Users\IDE\source\repos\DRPC\DRPC\obj\Release\DRPC.DiscordRPC.resources
